@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>心路历程</title>
+  <icon>https://www.gravatar.com/avatar/f5ed4300329e1b5dc8797be1909bab1b</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-24T10:13:02.791Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>周小猩</name>
+    <email>guangfenghzhou@126.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>对大学的思考</title>
+    <link href="http://yoursite.com/2019/05/24/experience/"/>
+    <id>http://yoursite.com/2019/05/24/experience/</id>
+    <published>2019-05-24T05:20:56.000Z</published>
+    <updated>2019-05-24T10:13:02.791Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;初中高中到大学，似乎走进人生天堂。没有老师的强制要求，没有统一式的学习，没有填鸭式的教学，一切都变得自然。大学时代强调的是自主学习，自我约束。没有要求的”童鞋们“，LOL和DOTA风声四起，这里不是吐槽玩游戏，自己也在玩，只是表达一种现象。自我认为
+        
+      
+    
+    </summary>
+    
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+    
+    
+      <category term="大学" scheme="http://yoursite.com/tags/%E5%A4%A7%E5%AD%A6/"/>
+    
+  </entry>
+  
+</feed>
