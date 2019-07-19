@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-24T10:13:02.791Z</updated>
+  <updated>2019-07-19T02:36:24.243Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>dubbo负载均衡算法</title>
+    <link href="http://yoursite.com/2019/07/19/dubbo-loadbalance/"/>
+    <id>http://yoursite.com/2019/07/19/dubbo-loadbalance/</id>
+    <published>2019-07-19T12:20:56.000Z</published>
+    <updated>2019-07-19T02:36:24.243Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;1、随机+权重&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;RandomLoadBalance 是加权随机算法的具体实现，它的算法思想很简单。假设我们有一组服务器 servers = [A, B, C]，他们对应的权重为 weights = [5,
+        
+      
+    
+    </summary>
+    
+      <category term="technology" scheme="http://yoursite.com/categories/technology/"/>
+    
+    
+      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>对大学的思考</title>
